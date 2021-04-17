@@ -1,5 +1,5 @@
 # Note Taker 
-
+< img src="./public/assets/img/notetaker.png" style=" width:100px ; height:100px" />
 ## License:
     
     MIT 
